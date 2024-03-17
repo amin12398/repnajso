@@ -1,0 +1,11 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 0228-6DFB
+
+ Directory of C:\Users\saoud\app1
+
+03/17/2024  07:26 PM    <DIR>          .
+03/17/2024  07:26 PM    <DIR>          ..
+03/17/2024  07:26 PM               346 fichier1.txt
+03/17/2024  07:26 PM                 0 fichier2.txt
+               2 File(s)            346 bytes
+               2 Dir(s)  12,737,232,896 bytes free
